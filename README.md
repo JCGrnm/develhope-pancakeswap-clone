@@ -2,15 +2,9 @@
 
 ![PancakeSwap2-1140x641](https://github.com/NicolaPisani/PancakeSwap-Project/assets/129162001/d766f146-b6fc-4ec0-8333-7096a48093a5)
 
-PancakeSwap-Project (clone)
+PancakeSwap-Project (clone) - check out the [live preview](https://jcgrnm.github.io/develhope-pancakeswap-clone/)! <br>
 
-Here is our Develhope Team Project: PancakeSwap-Project
-
-
-
-
-Team members:
-
+Here is our Develhope Team Project members:
 - Antonino Alampi (https://github.com/xTony2108)
 - Nicola Pisani (https://github.com/NicolaPisani)
 - Simone Strati (https://github.com/simonello95)
